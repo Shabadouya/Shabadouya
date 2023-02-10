@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shabadouya</h1>
+<h1 align="center">I'm Shabadouya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabadouya&label=Profile%20views&color=0e75b6&style=flat" alt="shabadouya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
